@@ -10,6 +10,8 @@ An Internet Bot, also known as web robot, WWW robot or simply bot, the spider is
 
 For details, visit http://StopBadBots.com
 
+Docker hub page: https://hub.docker.com/r/sminozzi/stopbadbots
+
 ### Getting Started:
 1) Download the Docker Compose file link: http://StopBadBots.com/files/docker-compose.zip
 
