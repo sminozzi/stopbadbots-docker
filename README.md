@@ -35,9 +35,9 @@ http://YourDomain.com:8080
 Login:
 
 
-User: admin
+- User: admin
 
-Password: password
+- Password: password
 
 (change that asap, look below)
 
@@ -45,9 +45,9 @@ To PHPmyAdmin: http://YourDomain.com:30002
 
 (use to manage the table users and change the password)
 
-user: db_user
+- user: db_user
 
-password: sweetpwd
+- password: sweetpwd
 
 You can change the port number on the file docker-compose.yml
 
