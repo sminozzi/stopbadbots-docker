@@ -1,4 +1,4 @@
-Stop Bad Bots Docker Image
+# Stop Bad Bots Docker Image
 
 Supported architecture: amd64
 Built width: PHP 7.3, Apache, MySQL
@@ -8,7 +8,7 @@ An Internet Bot, also known as web robot, WWW robot or simply bot, the spider is
 
 For details, visit http://StopBadBots.com
 
-Getting Started:
+### Getting Started:
 1) Download the Docker Compose file link: http://StopBadBots.com/files/docker-compose.zip
 2) Download the PHP file stopbadbots.zip link: http://StopBadBots.com/files/stopbadbots-docker.zip
 
@@ -20,7 +20,7 @@ Getting Started:
 
 6) To install, execute docker-compose up -d on the same folder of docker-compose.yml
 
-Usage:
+### Usage:
 Include the line below at the top of your index.php file
 include_once('stopbadbots.php');
 No page limits.
@@ -37,5 +37,5 @@ password: sweetpwd
 
 You can change the port number on the file docker-compose.yml
 
-Support Site:
+### Support Site:
 http://BillMinozzi.com/support/
